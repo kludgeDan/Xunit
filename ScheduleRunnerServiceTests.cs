@@ -12,6 +12,7 @@ using Moq;
 using Moq.Protected;
 using Xunit;
 
+
 namespace InfrastructureServices.Pendulum.Domain.ApplicationServices.Tests.SchedulerRunnerX
 {
     /// <summary>
